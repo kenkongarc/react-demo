@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 part2 branch first time submit ---part2
+=======
+part1 branch first time submit---£¡£¡£¡£¡part1
+>>>>>>> part1
